@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Laufwerk Banner" height="200">
+  <img src="banner.jpg" alt="Laufwerk Banner" height="200">
 </p>
 
 This is laufwerk. It is the "brand" name I use to share content online.
