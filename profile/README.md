@@ -8,4 +8,4 @@ Find me at
 
 - https://laufwerk.xyz/
 - https://ko-fi.com/laufwerk
-- https::/christian.benstein.nl
+- https://christian.benstein.nl
